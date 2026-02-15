@@ -1,0 +1,6 @@
+gradio
+torch
+numpy
+beautifulsoup4
+nltk
+lxml
